@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<strong>Welcome to LOTUS.</strong></p>
+<strong>Welcome to Outliers.</strong></p>
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-- **Lotus**, my second creation, is a website that provides functions for encryption algorithms currently in use.
+- **Outliers**, my second creation, is a website that provides functions for encryption algorithms currently in use.
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-- **Lotus**, is a website that allows you to create texts. You can encrypt as much text as you want. In future updates, I will explore ways to do more advanced encryption.
+- **Outliers**, is a website that allows you to create texts. You can encrypt as much text as you want. In future updates, I will explore ways to do more advanced encryption.
 
 
 <p align="center"><strong>Encryption Algorithms.</strong></p>
@@ -41,7 +41,7 @@ The encryption models used by Lotus are provided by the  **CryptoJS** and **Node
 
 ---
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://www.outliers.works">
     <img src="/src/app/public/lotus.png" alt="cryptojs">
   </a>
 </p>
@@ -51,9 +51,9 @@ The encryption models used by Lotus are provided by the  **CryptoJS** and **Node
   </strong>
 </p>
 
--  Thank you for using Lotus! I hope you enjoy the functionalities it offers and stay tuned for future updates. 
+-  Thank you for using OutliersEncrypt! I hope you enjoy the functionalities it offers and stay tuned for future updates. 
 - Feel free to reach out to me if you have any questions or feedback.
-    - jhojanggarcial@gmail.com
+    - ijeetuvishwakarma@gmail.com
 
 
 

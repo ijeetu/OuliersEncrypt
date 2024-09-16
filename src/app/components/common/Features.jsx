@@ -40,7 +40,7 @@ export default function Features() {
               <div className="w-80 blur-3xl rotate-45 h-12 bg-lotus-primary-400 opacity-50 rounded-3xl absolute bottom-32 right-3/4"></div>
             </h3>
             <p data-cursor="text" className="mt-6 dark:text-black/80 text-white/80">
-              Lotus employs advanced encryption algorithms, incorporating
+              Outliers employs advanced encryption algorithms, incorporating
               techniques such as salting, peppering, secure hashing,{" "}
               <strong>key derivation functions (KDFs)</strong>, and a range of
               cryptographic standards including AES{" "}

@@ -28,7 +28,7 @@ export const HeaderContent = [
   },
   {
     name: "Github",
-    route: "https://github.com/JhojanGgarcia/lotus",
+    route: "https://github.com/ijeetu/OuliersEncrypt",
     github: (
       <svg
         className="text-white dark:text-black"

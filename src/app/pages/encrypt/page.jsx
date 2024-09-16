@@ -179,7 +179,7 @@ export default function Encrypt() {
           >
             <HeroText label="Encrypt" description="all the text you want." />
             <p className="text-xl dark:text-black/80 my-5 font-normal text-white/80">
-              Write, encrypt, learn what makes the encryption offered by Lotus
+              Write, encrypt, learn what makes the encryption offered by Outliers
               and ensure your passwords.
             </p>
           </strong>
